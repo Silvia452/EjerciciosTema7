@@ -78,7 +78,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        ArrayList<Cliente> clientes = new ArrayList<>();
+        ArrayList<Cliente> clientes = new ArrayList<Cliente>();
         switchOptions(clientes);
 
     }
