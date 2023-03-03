@@ -27,14 +27,14 @@ public class Cuadricula {
     }
 
     public void disparar(int fila, int columna){
-        boolean disparar = false;
+        boolean dispararBarco = false;
         if(cuadricula[fila][columna] == 'B'){
             cuadricula[fila][columna] = 'X';
-            disparar = true;
+            dispararBarco = true;
         }
         else{
             cuadricula[fila][columna] = 'O';
-            disparar = false;
+            dispararBarco = false;
         }
     }
 
