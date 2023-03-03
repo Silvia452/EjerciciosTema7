@@ -72,7 +72,7 @@ public class Main {
     public static void mostrarClientes(ArrayList clientes){
 
         for (int i = 0; i < clientes.size(); i++) {
-            System.out.println("\n " + clientes.get(i));
+            System.out.println("\n " + clientes.get(i).toString());
         }
     }
 
