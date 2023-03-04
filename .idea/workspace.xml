@@ -47,7 +47,7 @@
       <recent name="ejercicio2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Dado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicio1.Dado" />
       <module name="EjerciciosTema7" />

@@ -9,7 +9,7 @@ public class Main {
         Cuadricula cuadriculaJugador = new Cuadricula();
         Cuadricula cuadriculaMaquina = new Cuadricula();
         System.out.println("Bienvenido al juego de la batalla naval");
-        System.out.println("Introduzca el barco que desea colocar: ");
+        System.out.println("Introduzca el barco que desea hundir. ");
         System.out.println("Introduce la columna (entre 1 y 10):");
         int colJugador = sn.nextInt();
         System.out.println("Introduce la fila (entre 1 y 10):");
