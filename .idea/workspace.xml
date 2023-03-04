@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1788fb0b-6f89-453c-8c39-2d4fa50c0a0b" name="Changes" comment="Ejercicios 1,2,3 completados">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/Cuadricula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio4/Cuadricula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/Cuadricula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/Sally/Desktop/EjerciciosTema7"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -84,7 +85,8 @@
       <updated>1677512344428</updated>
       <workItem from="1677512347183" duration="583000" />
       <workItem from="1677765124160" duration="1213000" />
-      <workItem from="1677841954002" duration="8243000" />
+      <workItem from="1677841954002" duration="8722000" />
+      <workItem from="1677944023267" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicios 1,2 completados">
       <created>1677847089802</created>
@@ -114,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677873989069</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ejercicios 1,2,3 completados">
+      <created>1677875620943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677875620943</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
